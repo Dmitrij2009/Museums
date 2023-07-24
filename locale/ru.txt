@@ -1,0 +1,43 @@
+#: locale=ru
+
+## Тур
+
+### Описание
+
+### Заголовок
+tour.name = Untitled 3
+
+## Скин
+
+### Кнопка
+Button_53B22C11_79E1_7DF9_41C9_36C8FAECA306.label = 3D Вид комплекса
+
+### Многострочный текст
+HTMLText_6FBC4D78_75B5_4108_41CE_C2CD6219DBEF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:3px 2px 0px rgba(0,0,0,1);text-align:left;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;"><B>ВИРТУАЛЬНЫЙ ТУР</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:3px 2px 0px rgba(0,0,0,1);text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#3399ff;font-size:33px;"><B><I>Общее</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-shadow:3px 2px 0px rgba(0,0,0,1);text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Tahoma, Geneva, sans-serif;">способ реалистичного  отображения трехмерного многоэлементного пространства на экране. Элементами виртуального тура, как правило, являются сферические панорамы, соединенные между собой интерактивными ссылками-переходами (хотспотами). В виртуальные туры также включают цилиндрические панорамы, виртуальные 3D-объекты, обыкновенные фотографии, видео, звук и т. д.</SPAN></SPAN></DIV></div>
+HTMLText_74C42039_7821_0636_41D4_5B4B56418CD8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:5px 5px 9px rgba(0,0,0,0.6);text-align:right;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;font-family:'Futura PT Bold Italic';">Музейные комплексы тульской области</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:53px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-shadow:5px 5px 9px rgba(0,0,0,0.6);text-align:right;font-size:46px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:46px;font-family:'Futura PT Cond Book';"><B><I>Описание</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-shadow:5px 5px 9px rgba(0,0,0,0.6);text-align:justify;text-indent:15px;font-size:36px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:36px;font-family:'Futura PT Cond Book';"><B><I>Государственные музеи федерального, регионального и муниципального подчинения, а также частные музеи, расположенные на территории Тулы и Тульской области. Тульская область является одним из регионов-лидеров по развитию музейного дела в России, входит в «большую тройку музейных регионов страны» после Москвы и Санкт-Петербурга по числу музеев прежде всего федерального уровня</I></B></SPAN></SPAN></DIV></div>
+
+## Медиа
+
+### Заголовок
+album_72744FE4_7DF7_A556_41C1_C2C09DA47A25.label = Фото Альбом 200723_010
+album_72744FE4_7DF7_A556_41C1_C2C09DA47A25_0.label = 200723_010
+album_72744FE4_7DF7_A556_41C1_C2C09DA47A25_1.label = 200723_020
+album_9A578AC4_82A9_31AC_41C2_7D7038167794.label = Фото Альбом 0070_1
+album_9A578AC4_82A9_31AC_41C2_7D7038167794_0.label = 0070_1
+album_9A578AC4_82A9_31AC_41C2_7D7038167794_1.label = 0071_1
+album_9A578AC4_82A9_31AC_41C2_7D7038167794_2.label = 0072_1
+album_9A578AC4_82A9_31AC_41C2_7D7038167794_3.label = 0073_1
+map_6789600F_7861_05EA_41D4_57BE1DA424CE.label = 150723_plan
+panorama_660E22C0_7E54_9F4E_41D4_E9A4835C8764.label = 210723_1
+panorama_68A28820_7E54_EACE_41C7_EF542E292AB4.label = 210723_2
+panorama_76E31C64_7861_3E5F_41D9_692856E1A822.label = 210723
+panorama_8C54E432_83AD_5CF1_41DD_548885552620.label = 08
+panorama_8EC0EF01_83B7_EC90_41CC_FD7AAB04B465.label = 010
+panorama_9223176F_83D3_DC90_41C6_D01176B83502.label = 07
+panorama_92DECF92_83D3_6BB0_41D7_A61D2AE9843C.label = 09
+panorama_954B58E3_83F3_B590_41C8_4036972D5290.label = 05
+panorama_A1A272E3_83DF_5590_41E0_66664143CD83.label = 02
+panorama_A34A0D27_83ED_AC9F_41D6_71292B7F2822.label = 04
+panorama_A3D091DC_83D7_57B0_41D6_C97B1DD904BA.label = 03
+panorama_A60C676A_83D3_5C91_41DD_1A63CA5B45A1.label = 01
+panorama_B76F4903_83AD_F497_41CF_929B9C5255FA.label = 06
